@@ -1,0 +1,19 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="btraining.models.VersionLevel.objects" />
+          <option value="btraining.models.DrillResult.objects" />
+          <option value="btraining.models.Effect.objects" />
+          <option value="btraining.models.Version.objects" />
+          <option value="btraining.models.Level.objects" />
+          <option value="btraining.models.Drill.objects" />
+          <option value="btraining.models.EffectType.objects" />
+          <option value="btraining.models.BilliardType.objects" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
